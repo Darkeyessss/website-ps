@@ -4,11 +4,12 @@
     "skills":"技能",
     "portfolio":"项目集",
     "contact":"联系方式",
-    "home__title":"Hi, I'm ASOUTHERNCAT",
-    "home__subtitle":"前端工程师",
-    "home__description":"热爱学习，热爱生活，创造更高质量工作成果。",
+    "home__title":"你好，<br>我是窦楷然",
+    "home__subtitle":"来自南开大学",
+    "home__subtitle1": "学生",
+    "home__description":"一位还没毕业的热爱计算机的本科生。",
     "home__contact":"与我联系",
-    "home__scroll-name":"往下滑",
+    "home__scroll-name":"向下",
     "about__title":"关于我",
     "about__subtitle":"简单介绍",
     "about__description":"Web开发人员，具有丰富的知识和多年的经验，从事Web技术和UI / Ux设计，提供高质量的工作。",
@@ -48,10 +49,10 @@
     "contact__title":"联系方式",
     "contact__subtitle":"与我联系",
     "tel":"电话",
-    "tel__number":"166********",
+    "tel__number":"15801307889",
     "email":"电子邮箱",
-    "email__address":"asoutherncat@gmail.com",
+    "email__address":"2210652@mail.nankai.edu.cn",
     "location":"位置",
-    "location__detail":"湖南省"
+    "location__detail":"北京市"
     
 }
